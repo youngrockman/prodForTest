@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prodForTest", "prodForTest\prodForTest.csproj", "{6AB5625C-380A-4AA3-AAF8-0BA26CB4C4F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testiki", "Testiki\Testiki.csproj", "{7C7EA743-4543-4379-ADE5-E0C69B1FDECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB5625C-380A-4AA3-AAF8-0BA26CB4C4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB5625C-380A-4AA3-AAF8-0BA26CB4C4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB5625C-380A-4AA3-AAF8-0BA26CB4C4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB5625C-380A-4AA3-AAF8-0BA26CB4C4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C7EA743-4543-4379-ADE5-E0C69B1FDECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7EA743-4543-4379-ADE5-E0C69B1FDECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7EA743-4543-4379-ADE5-E0C69B1FDECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7EA743-4543-4379-ADE5-E0C69B1FDECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

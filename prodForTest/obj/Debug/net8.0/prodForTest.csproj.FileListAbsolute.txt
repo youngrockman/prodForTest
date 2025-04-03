@@ -1,0 +1,14 @@
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\bin\Debug\net8.0\prodForTest.exe
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\bin\Debug\net8.0\prodForTest.deps.json
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\bin\Debug\net8.0\prodForTest.runtimeconfig.json
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\bin\Debug\net8.0\prodForTest.dll
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\bin\Debug\net8.0\prodForTest.pdb
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\obj\Debug\net8.0\prodForTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\obj\Debug\net8.0\prodForTest.AssemblyInfoInputs.cache
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\obj\Debug\net8.0\prodForTest.AssemblyInfo.cs
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\obj\Debug\net8.0\prodForTest.csproj.CoreCompileInputs.cache
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\obj\Debug\net8.0\prodForTest.dll
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\obj\Debug\net8.0\refint\prodForTest.dll
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\obj\Debug\net8.0\prodForTest.pdb
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\obj\Debug\net8.0\prodForTest.genruntimeconfig.cache
+C:\Users\blockchain\RiderProjects\prodForTest\prodForTest\obj\Debug\net8.0\ref\prodForTest.dll
