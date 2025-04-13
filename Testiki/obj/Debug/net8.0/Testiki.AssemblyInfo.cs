@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Testiki")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a15f6bf5c4c1fcb8b6140b139ededc15b573d152")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5496dfe1d4a90420c3ed6f8bf2d14e97541f021")]
 [assembly: System.Reflection.AssemblyProductAttribute("Testiki")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Testiki")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
