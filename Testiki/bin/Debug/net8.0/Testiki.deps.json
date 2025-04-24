@@ -319,10 +319,7 @@
       "System.Reflection.Metadata/1.6.0": {},
       "prodForTest/1.0.0": {
         "runtime": {
-          "prodForTest.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "prodForTest.dll": {}
         }
       }
     }

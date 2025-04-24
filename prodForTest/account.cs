@@ -125,7 +125,7 @@ namespace prodForTest
             //pereschet();
         }
 
-        private async void pereschet()
+        public async void pereschet()
         {
             string[] lines = new string[3];
 
