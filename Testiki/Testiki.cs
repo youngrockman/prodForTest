@@ -35,9 +35,25 @@ namespace prodForTest.Tests
 
         [Test]
 
-        public void Otk_NameWithNumbers_ShoulBeError()
+        public void Otk_NameWithNumbers_ShoulShowErrorMessage()
         {
+            Console.SetIn(new StreamReader("1231!!32432;\n500\n"));
             
+            testAccount.otk();
+            
+            Assert.That(consoleOutput.ToString(), Is.EqualTo("Неверное имя пользователя"));
+            
+        }
+
+        [Test]
+
+        public void Otk_BalanceIsNotDigits_ShoulShowErrorMessage()
+        {
+            Console.SetIn(new StreamReader("Сидор Сидоров\nabc\n"));
+            
+            testAccount.otk();
+            
+            Assert.That(consoleOutput.ToString(), Is.EqualTo("Неверный формат ввода"));
         }
 
         [Test]
